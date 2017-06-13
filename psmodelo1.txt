@@ -1,0 +1,186 @@
+1 - Motivo da governança de TI e do CobiT e o que querem alcançar
+
+Governança Corporativa é o sistema pelo qual as organizações
+são dirigidas, monitoradas e incentivadas, envolvendo as
+práticas e os relacionamentos entre proprietários, conselho de
+administração, diretoria e órgãos de controle. As boas práticas
+de Governança Corporativa convertem princípios em
+recomendações objetivas, alinhando interesses com a finalidade
+de preservar e otimizar o valor da organização, facilitando seu
+acesso ao capital e contribuindo para a sua longevidade.
+
+A preocupação da Governança Corporativa é, portanto, criar um conjunto
+eficiente de mecanismos, tanto de incentivos quanto de monitoramento, a fim
+de assegurar que o comportamento dos administradores esteja sempre alinhado
+com o melhor interesse da empresa.
+
+O COBIT define:
+• Requisitos de negócio a serem
+atendidos
+• Processos de TI que sustentam os
+negócios
+• Recursos de TI que são aplicados
+na realização dos processos
+
+O COBIT não define COMO gerenciar TI mas sim O QUÊ deve ser feito para
+gerenciar TI.
+Ele define recomendações a serem seguidas pelo CIO na hora de definir suas
+práticas para gerenciar:
+• Gerenciar pessoal e capacitação
+• Compras e ativos sob a responsabilidade de TI
+• Alinhar estratégias
+• Segurança da informação
+• Condução de projetos
+• Manutenção e suporte técnico às operações
+
+Governaça de TI surgiu por causa das más qualidades em diversos aspectos na entregas de produtos/projetos a cliente, na qual foi identificado
+a necessidade de melhoria de processos e também do que é feito e como é feito.
+
+
+Controle da Qualidade – Garantir que o combinado está sendo cumprido.
+
+
+ISO – Empresa que define normas(regulamentos) e padrões internacionais de trabalho 
+SEI – Instituo dos EUA – Escreveram Guia - Práticas de Gerenciamento e Produção de Software – CMMI 
+
+
+
+
+
+
+
+
+
+2 - Product Backlog - Fazer Tabela(estimativa inicial) de um case
+
+
+VER TABELA PRODUCT BACKLOG ONENOTE.
+
+
+
+
+
+
+
+3 - Diagrama de Baleias - Preço total do projeto e prazo, calcular esforço e prazo
+
+
+Metodologias – Cascata, Espiral(Ágil)... 
+ 
+Documentação, Gestão/Atividades gerenciais, porém ágil é diferente 
+ 
+ 
+Método clássico - RUP Ration Unified Process 
+
+
+Tabela da porcentagem para cálculo de gasto(esforço) = 100.000 e tempo/ prazo = 6 meses 
+																25.000 e 2,4 meses 
+
+																
+																
+																
+																
+																
+																
+																
+																
+																
+
+4 - nível do CMMI empresa do case e explicar todos os 5 níveis
+
+1 sem padrao / 
+2 com padroes mas não documentado / 
+3 com padroes para funcionarios novos / 
+4 gerenciar quantidade e desempenho e performance(desligar gente) / 
+5 processo melhorado continuamente(aprendo, defino proximo passo, melhoro, otimizar) 
+
+
+
+
+
+
+
+
+
+
+
+
+5 - Citar e explicar cada uma das timebox do Scrum
+
+Time Boxes(Caixas de Tempo) - Se repetem varias vezes 
+1 – Planejamento de Release – output - (Produção/Lista de Pendências para produtos - Product Backlog) - Ex.: Função para cadastrar cliente 
+2 – Planejamento de Sprint – output – sprint backlog(tarefas para cada item de produto) 
+3 – Sprint(corrida) - Desenvolvimento (2 a 4 semanas) - Dentro dessa time box tem a: linha debaixo 
+4 – Reunião Diária - em casos de mudanças grandes ou pessoa doente: Executar 5 
+5 – Sprint Review – Deu pau 
+6 – Sprint Retrospective - Sessão de Aprendizado 
+Entrega: Pacote de Software Útil 
+
+
+Caixa 1 – Tempo Indefinido 
+Caixa 2 – Tempo: 8h – Planejamento de Uma Sprint só 
+Caixa 3 – Tempo: 2 a 4 Semanas 
+Caixa 4 – Tempo: 15min 
+Caixa 5 – Tempo: 4h 
+Caixa 6 – Tempo: 6h 
+
+
+3 Funções: Product Owner / SCRUM Master / Time de Desenvolvimento 
+3 Materiais: Backlog de Produto / Sprint backlog – task cards / Quadro de Tarefas – Post IT 
+
+
+RELEASE PLAN
+
+Jogo Poker Scrum – Pontos de Estimativa 21 a 144 (Fibonachi) 
+Sprints - Começar pela mais demorada 
+ 
+|-----sprint1-------| |-----sprint2-------| |-----sprint3-------| 
+           14 dias                  14 dias                       14 dias 
+
+
+		   
+		   
+		   
+		   
+Documentos: 
+ 
+Task Board/KANBAN – Por Sprint – Interessa o que vai comer amanhã 
+ 
+Quadro com cartões 
+ 
+A FAZER / FAZENDO / FEITO 
+(TO DO)/(WORKING)/(DONE) 
+ 
+BurnDown Chart 
+ 
+Grafico: 
+ 
+Numero 
+De Pontos total da sprint 
+^ 
+| 
+| 
+| 
+_______________-> tempo (ex.: 14 dias)
+
+
+
+
+		   
+		   
+		   
+		   
+		   
+
+6 - Modelo que a empresa seguia, cascata ou espiral
+
+Metodologias – Cascata, Espiral(Ágil)
+
+
+
+-backlog de produto / observacoes de campo / formularios / reunioes de trabalho
+
+
+
+PS_Qualidade
+
